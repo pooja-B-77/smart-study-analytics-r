@@ -1,0 +1,6 @@
+"Model","CV_RMSE","CV_folds"
+"Mean-grade baseline",4.59502998824314,5
+"Linear regression - Model A",4.42127444862215,5
+"Linear regression - Model B",2.02190931475422,5
+"Random forest - Model A",3.84253639179299,5
+"Random forest - Model B",1.69696789590055,5

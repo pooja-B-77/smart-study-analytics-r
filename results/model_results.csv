@@ -1,0 +1,6 @@
+"Model","MAE","RMSE","R2","n","Test_n","Train_n","Evaluation","CV_RMSE","CV_method"
+"Mean-grade baseline",3.63307162313732,4.90656163313639,-0.0213170917396268,79,79,316,"80/20 held-out test",4.59502998824314,"5-fold CV; preprocessing refit per fold"
+"Linear regression - Model A",3.36296541730225,4.49658156214707,0.142229643436287,79,79,316,"80/20 held-out test",4.42127444862215,"5-fold CV; preprocessing refit per fold"
+"Linear regression - Model B",1.82217282362348,2.47216275128404,0.740725264545331,79,79,316,"80/20 held-out test",2.02190931475422,"5-fold CV; preprocessing refit per fold"
+"Random forest - Model A",2.91831072935503,3.99912581008032,0.321521302034419,79,79,316,"80/20 held-out test",3.84253639179299,"5-fold CV; preprocessing refit per fold"
+"Random forest - Model B",1.4330776371308,1.99072654930831,0.83187616045252,79,79,316,"80/20 held-out test",1.69696789590055,"5-fold CV; preprocessing refit per fold"
